@@ -7,5 +7,9 @@ hello world!
 hello world!
 hello world!
 hello world!
+<<<<<<< HEAD
 hello world! slsldl
+=======
+hello world!skksksksk
+>>>>>>> hotfix
 hello world!222229929183918
